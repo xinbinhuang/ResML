@@ -3,7 +3,7 @@ Resources for Data Science, Software development, DevOps.
 
 ## TOC
 
-- [Development & Production](#development-&-production)
+- [Development & Production](#development--production)
 
 
 
