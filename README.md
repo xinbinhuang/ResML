@@ -3,9 +3,21 @@ Resources for Data Science, Software development, DevOps.
 
 ## TOC
 
+- [Linear algebra](#linear-algebra)
+- [Statistics](#statistics)
+- [Machine learning](#machine-learning)
+- [Deep Learning](#deep-learning)
 - [Development & Production](#development--production)
 
+## Linear algebra
 
+## Statistics
+
+### Books
+
+## Machine learning
+
+## Deep learning
 
 ## Development & Production
 
